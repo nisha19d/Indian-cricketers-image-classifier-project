@@ -6,5 +6,5 @@ Focused on optimizing model performance through feature tuning and data augmenta
 
 # How to run
 run -> server folder first
-Then run -> UI -> app (to view project)
-To view python code run -> module -> image classification
+Then run ->app.html (to view project)
+To view python code run -> image classification
